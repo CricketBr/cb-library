@@ -1,0 +1,20 @@
+{
+  "title": "CricketB's Library",
+  "name": "cb-library",
+  "author": "cricket",
+  "version": "0.1.0",
+  "factorio_version": "1.1",
+  "contact": "cricket@onebit.ca , cricketb on Discord, CrBr on Reddit.",
+  "license": "",
+  "description": "Another library",
+  "dependencies": [
+    "base",
+    "? SeaBlockMetaPack",
+    "? SeaBlock",
+    "? angelsaddons-storage",
+    "? nullius",
+    "? Warehousing",
+    "flib",
+    "FactorySearch"
+  ]
+}

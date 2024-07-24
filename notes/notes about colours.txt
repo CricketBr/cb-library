@@ -1,0 +1,23 @@
+from artininal reskins
+["warehouse"] = { particle_tint = util.color("403630") },
+["warehouse-active-provider"] = { particle_tint = util.color("760fd6"), is_logistics = true },
+["warehouse-passive-provider"] = { particle_tint = util.color("ff0000"), is_logistics = true },
+["warehouse-storage"] = { particle_tint = util.color("ba7713"), is_logistics = true },
+["warehouse-buffer"] = { particle_tint = util.color("00bf13"), is_logistics = true },
+["warehouse-requester"] = { particle_tint = util.color("227dae"), is_logistics = true },
+
+
+from old sb labeled storage -- svg file
+91aa91ff  medgreen
+204924ff dk green
+3c1f57ff purple
+ba7713ff yellow
+0a4169ff blue
+820000ff red
+aaaaaaff grey background
+
+
+plan:
+
+All png are 64x64, and take up the full frame, including letters.
+Lua converts to appropriate size and position.

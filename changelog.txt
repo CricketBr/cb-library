@@ -1,0 +1,9 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 2024-07-24
+  Major Features:
+    - First Release
+	- Add letters with background square to icons, items, and entities.
+
+
+
